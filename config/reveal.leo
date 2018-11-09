@@ -27,7 +27,7 @@
 <v t="leo.20181101200328.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20181101200328.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -40,6 +40,12 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181109093659.1"><vh>快捷鍵</vh>
+<v t="leo.20181109093659.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20181109093849.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109093849.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -350,5 +356,28 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
+<t tx="leo.20181109093659.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109093659.2"># 拜託老師別當我
+</t>
+<t tx="leo.20181109093849.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109093849.2">[回網站](./../content/index.html)
+
+[2018 Fall 分組網誌](./../blog/index.html)</t>
 </tnodes>
 </leo_file>
